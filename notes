@@ -1,0 +1,31 @@
+SERVER CREATION
+
+BASIC COMMANDS
+
+1. Creating package.json - npm init
+2. Install express- npm i express
+3. Install JWT- npm i jsonwebtoken
+4.Install mongoose npm i mongoose
+
+basic steps:
+1. creating a folder
+2. creating a package.json file
+3. install express
+4. creating index.js
+5. import express inside the index.js
+6. create an app using the express
+7. setup port number
+8. Resolving HTTP requests
+9. HTTP response code
+    1xx - Information
+    2xx - sucess
+    3xx - redirection
+    4xx - client error
+    5xx - server error
+10. JWT (JSON WEB TOKEN)token-For Authentication
+    sign()    
+11. Middleware 
+    1.Application specific middleware - for entire application
+    2.Router specific middleware - token validate -verify()
+12.Database Integeration 
+    install mongoose
